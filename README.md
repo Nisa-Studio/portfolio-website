@@ -1,2 +1,2 @@
 # Personal Portfolio
-show casing my projects and acadamic detail
+Show casing my projects and Acadamic details
